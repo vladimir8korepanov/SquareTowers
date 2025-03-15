@@ -8,17 +8,17 @@ SquareTowers — это адаптивный веб-сайт, демонстри
 
 ### 1. Клонируйте репозиторий:
     
-    ```git clone https://github.com/vladimir8korepanov/SquareTowers.git```
+    git clone https://github.com/vladimir8korepanov/SquareTowers.git
 
 ### 2. Перейдите в папку проекта:
 
-    ```cd SquareTowers```
+    cd SquareTowers
 
 ### 3. Откройте `index.html` в браузере или запустите локальный сервер:
 - Используйте расширение Live Server в VS Code.
 - Или через терминал с Python:
 
-    ```python -m http.server 8000```
+    `python -m http.server 8000`
 
 Затем откройте `http://localhost:8000` в браузере.
 ### 4. Убедитесь, что папка `assets` с изображениями и `css`/`js` доступны.
